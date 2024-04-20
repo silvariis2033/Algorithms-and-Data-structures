@@ -1,2 +1,3 @@
-# Algorithms-and-Data-structures
-A course on algorithms and data structures from Tinkoff
+# Algorithms and Data structures 2024 by Tinkoff
+
+
